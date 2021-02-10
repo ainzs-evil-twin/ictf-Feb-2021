@@ -12,8 +12,9 @@ Some challenges for Imaginary CTF - February 2021
 | 1 | [null](../main/null/README.md) | Crypto, Forensics | Easy |
 | 2 | [nucleotides](../main/nucleotides/README.md) | Misc (Programming) | Easy |
 | 3 | [from-the-shadows](../main/from-the-shadows/README.md) | Misc (Cracking) | Easy
-| 4 | [privacy-enhanced-mail](../main/privacy-enhanced-mail/README.md) | Misc (Cracking) | Easy |
-| 3 | [pyjail1](../main/pyjail0/README.md) | jail-escape | Moderate |
+| 4 | [cookie-sale](../main/cookie-sale/README.md) | Web | Easy
+| 5 | [privacy-enhanced-mail](../main/privacy-enhanced-mail/README.md) | Misc (Cracking) | Easy |
+| 6 | [pyjail1](../main/pyjail0/README.md) | jail-escape | Moderate |
 
 ## Flag format
 
